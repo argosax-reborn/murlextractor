@@ -8,7 +8,7 @@ First, you input a file containing urls. Those urls will be extracted to a temp 
 
 Then, urls will be processed thought TheHarvester in a for loop manner to gather mail addresses.
 
-This tool was built to speed up entrerprise indexing and mailing for job search. 
+This tool was built to speed up company indexing and mailing for job search. 
 
 
 ## Prerequisties
